@@ -10,9 +10,13 @@ Highest cookie amount I baked was some amount over
 
 # Install
 ensure python3-venv is installed, then:
+
 `python3 -m venv .venv/`
+
 `source .venv/bin/activate`
+
 `pip install -r requirements.txt`
+
 `python3 clicker.py`
 
 # Still todo:
